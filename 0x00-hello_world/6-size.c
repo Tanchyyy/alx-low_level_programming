@@ -1,4 +1,3 @@
-vi 6-size.c
 #include <stdio.h>
 
 /**
